@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend",
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "npm run start --prefix backend"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ShervinBabaei2007/MERN-thinkBoard/issues"
   },
-  "homepage": "https://github.com/ShervinBabaei2007/MERN-thinkBoard#readme"
+  "homepage": "https://github.com/ShervinBabaei2007/MERN-thinkBoard#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
 }
