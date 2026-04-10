@@ -17,7 +17,6 @@
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB (via Mongoose)
 * **Styling:** Tailwind CSS
-D
 
 ### 📸 Project Preview
 
