@@ -10,7 +10,7 @@ I created a simple character counter with a random color text function...
 
 Steps to install my sandbox application
 
-1. Change branch from main to Clayton-HTML-CSS-JS
+1. Change branch from main to Clayton-React-Tailwind
  
 2. Clone my repo...
 
